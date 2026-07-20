@@ -21,7 +21,7 @@
     }),
     e('#folio-wrap').lightGallery({
       showThumbByDefault: !1,
-      hash: !1,
+      hash: !0,
       selector: '.item-wrap',
     }),
     (t = e('#header-menu-trigger')),
